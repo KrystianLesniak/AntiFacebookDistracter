@@ -16,5 +16,4 @@ UserScript that disables facebook main feed. Except user profiles and groups. Al
 2. Install:
 	* Install a script directly from GitHub by clicking on the "install" link in below.
 
-## 
-[Install](https://github.com/KrystianLesniak/AntiFacebookDistracter/raw/master/AntiFacebookDistracter.user.js)
+## [Install](https://github.com/KrystianLesniak/AntiFacebookDistracter/raw/master/AntiFacebookDistracter.user.js)
