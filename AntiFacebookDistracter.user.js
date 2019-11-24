@@ -9,6 +9,8 @@
 // @run-at document-start
 // @grant  none
 // @require https://greasyfork.org/scripts/12228-setmutationhandler/code/setMutationHandler.js?version=175122
+// @updateURL   https://github.com/KrystianLesniak/AntiFacebookDistracter/raw/master/AntiFacebookDistracter.user.js
+// @downloadURL https://github.com/KrystianLesniak/AntiFacebookDistracter/raw/master/AntiFacebookDistracter.user.js
 // ==/UserScript==
 
 setMutationHandler(`[role="feed"]`, function(nodes) {
