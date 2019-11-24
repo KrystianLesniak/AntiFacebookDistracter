@@ -1,6 +1,6 @@
 # AntiFacebookDistracter
 
-UserScript that disables facebook main feed. Except user profiles and groups. All for your best productivity.
+UserScripts that disables facebook main feed(except user profiles and groups) and relations. All for your best productivity. Script features settings panel that lets you customize what do you want to hide.
 
 ## Installation
 
