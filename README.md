@@ -1,5 +1,7 @@
 # AntiFacebookDistracter
 
+# It's currently outdated and unmaintained.
+
 UserScripts that disables facebook main feed (except user profiles and groups) and relations. All for your best productivity. Script features settings panel that lets you customize what do you want to hide.
 
 ![distraction](https://brightspark-consulting.com/wp-content/uploads/2019/04/Screenshot-2019-04-04-at-06.13.24.png)
@@ -16,6 +18,4 @@ UserScripts that disables facebook main feed (except user profiles and groups) a
 	* UC Browser - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=ucweb).
 
 2. Install:
-	* Install a script directly from GitHub by clicking on the "install" link in below.
-
-## [Install](https://github.com/KrystianLesniak/AntiFacebookDistracter/raw/master/AntiFacebookDistracter.user.js)
+	* Outdated
